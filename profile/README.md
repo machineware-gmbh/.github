@@ -11,8 +11,8 @@ All model building blocks and interfaces are part of the open-source release.
 ### Impressum
 
 > MachineWare GmbH<br>
-> Augustastr. 59<br>
-> 52070 Aachen<br>
+> Hühnermarkt. 19<br>
+> 52062 Aachen<br>
 > Germany<br>
 >
 > Geschäftsführer: Lukas Jünger, Dr. Jan Henrik Weinstock<br>
